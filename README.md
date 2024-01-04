@@ -20,6 +20,7 @@
 
 ```javascript
 let a = 10;
+console.log("xxxx");
 ```
 
 ```python
